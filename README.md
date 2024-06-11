@@ -4,9 +4,9 @@ This is a web app that lets you manage your bank accounts easily. It's built wit
 
 ## Features:
  ### Responsive Design: 
-   - The application is fully responsive, ensuring a smooth user experience on both desktop and mobile devices. 
+   -> The application is fully responsive, ensuring a smooth user experience on both desktop and mobile devices. 
  ### Account Management: 
-  - Users can add, view, and delete bank accounts with ease. Data Handling: Utilizes advanced JavaScript array methods<br> 
+  -> Users can add, view, and delete bank accounts with ease. Data Handling: Utilizes advanced JavaScript array methods<br> 
  such as<br> 
  ● Reduce()<br> 
  ● Filter()<br> 
@@ -14,10 +14,11 @@ This is a web app that lets you manage your bank accounts easily. It's built wit
  to efficiently manage and manipulate the bank account data. 
  
  ### Date Handling:
- - Implements robust date functionalities to track account creation and transaction dates. 
+ -> Implements robust date functionalities to track account creation and transaction dates. 
  
  
  ## Technologies Use: 
  ● HTML<br> 
- ● CSS<br>  
+ ● CSS<br>
+ ● Bootstrap
  ● JavaScript
