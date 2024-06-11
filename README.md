@@ -25,3 +25,9 @@ This is a web app that lets you manage your bank accounts easily. It's built wit
  ● CSS<br>
  ● Bootstrap<br>
  ● JavaScript
+
+### Sample Logins: 
+Use these credentials for sample transactions such as getting a loan, transferring money, and viewing transaction details:
+
+1. (UserName) js , Pin: 1111 2. (UserName) jd , Pin: 2222 
+ 
